@@ -1,3 +1,6 @@
-h1 {
-    color:red
+.title {
+    text-align:center
+}
+table {
+    box-align:right;
 }
